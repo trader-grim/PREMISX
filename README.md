@@ -1,4 +1,5 @@
-# PREMIS(X) — Portable Role Environment Management Interface System
+# PREMIS(X) — 
+Portable Role Environment Management Interface System
 
 > **The Cryptographic Lock on the Enclosure Gate.**  
 > PREMIS(X) is a POSIX-shaped, principal-agnostic capability standard designed to eliminate ambient authority hazards in autonomous AI agent runtimes.
